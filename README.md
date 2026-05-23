@@ -1,3 +1,3 @@
-# Intellistra-Security
+# security-erp
 
 Security ERP — powered by APPNEURAL
